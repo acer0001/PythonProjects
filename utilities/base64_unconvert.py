@@ -1,3 +1,6 @@
+# Syntax: 
+# python3 base64_unconvert.py [base64 string] 
+
 import base64
 import argparse
 
