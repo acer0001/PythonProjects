@@ -1,3 +1,3 @@
-#Python Projects
+# Python Projects
 
 Project repo for learning python
